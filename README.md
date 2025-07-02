@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Pete Orbase
+- 👋 Hi, I’m Pete Andre Orbase
 - 👀 I’m interested in Game Development
 - 🌱 I’m currently learning C#
 - 📫 How to reach me Outlook
